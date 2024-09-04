@@ -1,0 +1,40 @@
+body{
+	background-color:papayawhip;
+	color:#555555;
+
+	font-family: Comic Sans MS, cursive, sans-serif;
+	font-size: 12px;
+	font-weight:normal;
+	/* Same as above */
+	font: normal 12px Comic Sans MS, cursive, sans-serif;
+
+	line-height:1.6em;
+	margin:0;
+}
+
+.video{
+	max-width: 100%;
+	padding-left: 300px;
+	padding-bottom: 75px;
+}
+
+.box-1{
+	padding-left: 400px;
+	padding-bottom: 75px;
+} 
+
+.box-2{
+	padding-left: 100px;
+	padding-bottom: 75px;
+} 
+
+.box-3{
+	padding-left: 400px;
+	padding-bottom: 75px;
+
+} 
+hr{
+	height: 5px;
+}
+
+
